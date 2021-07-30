@@ -1,6 +1,6 @@
 # Introduction
 
-Web API Automation framework to test the endpoints of Weather Forecast data.
+API Automation framework to test the endpoints of Weather Forecast data.
 The framework is designed with TestNG for annotations and Reporting and REST Assured for managing API requests and responses.
 
 # Demo
