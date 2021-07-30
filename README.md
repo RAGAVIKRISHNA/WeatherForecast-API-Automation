@@ -26,7 +26,7 @@ https://youtu.be/KN0jG3KDN0A
 
 1. Maven Build
 
-mvn clean install executes the test suite by default. Reports can be found in generated "target\surefire-reports\index.html".
+"mvn clean install" or "mvn clean install -U" executes the test suite by default. Reports can be found in generated "target\surefire-reports\index.html".
 
 2.Running via IDE Testng Plugin
 
