@@ -5,7 +5,7 @@ The framework is designed with TestNG for annotations and Reporting and REST Ass
 
 # Demo
 
-https://youtu.be/KN0jG3KDN0A
+https://youtu.be/BvyxflsZf_Y
 
 # Requirements
 
