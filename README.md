@@ -14,7 +14,7 @@ https://youtu.be/KN0jG3KDN0A
 - Download and Install IDE of your choice
 - Download and Install TestNG plugin for Eclipse from Eclipse MarketPlace/ Install New Software
 
-# Used tools and frameworks
+# Tools and frameworks
 
 - Rest-Assured
 - Maven repository
