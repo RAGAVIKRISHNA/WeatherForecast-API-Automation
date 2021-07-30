@@ -11,9 +11,9 @@ https://youtu.be/KN0jG3KDN0A
 
 - Download and Install Java : https://www.java.com/download/ie_manual.jsp
 - Download Apache Maven : https://maven.apache.org/download.cgi
-- Download and Install Eclipse IDE : https://www.eclipse.org/downloads/
+- Download and Install IDE of your choice
 - Download and Install TestNG plugin for Eclipse from Eclipse MarketPlace/ Install New Software
--
+
 # Used tools and frameworks
 
 - Rest-Assured
@@ -23,6 +23,16 @@ https://youtu.be/KN0jG3KDN0A
 - Read Configurations from Property File
 
 # Execution
+
+1. Maven Build
+
+mvn clean install executes the test suite by default. Reports can be found in generated "target\surefire-reports\index.html".
+
+2.Running via IDE Testng Plugin
+
 Right click on the testng.xml and run as TestNG suite
+
+![image](https://user-images.githubusercontent.com/68452571/127595388-5535c745-b2c4-470f-bbef-1ee411f46d45.png)
+
 
 
