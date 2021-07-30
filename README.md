@@ -12,7 +12,8 @@ https://youtu.be/KN0jG3KDN0A
 - Download and Install Java : https://www.java.com/download/ie_manual.jsp
 - Download Apache Maven : https://maven.apache.org/download.cgi
 - Download and Install Eclipse IDE : https://www.eclipse.org/downloads/
-
+- Download and Install TestNG plugin for Eclipse from Eclipse MarketPlace/ Install New Software
+-
 # Used tools and frameworks
 
 - Rest-Assured
